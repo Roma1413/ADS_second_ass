@@ -1,4 +1,4 @@
-package org.classess;
+package org.clasess;
 
 public class MyQueue<E> {
     private MyLinkedList<E> list = new MyLinkedList<>();

@@ -1,4 +1,4 @@
-package org.classess;
+package org.clasess;
 
 public class MyArrayList<E> implements MyList<E> {
     private Object[] data;

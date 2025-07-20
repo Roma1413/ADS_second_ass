@@ -1,4 +1,4 @@
-package org.classess;
+package org.clasess;
 
 public class MyLinkedList<E> implements MyList<E> {
     private class MyNode {

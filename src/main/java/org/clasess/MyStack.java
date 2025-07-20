@@ -1,4 +1,4 @@
-package org.classess;
+package org.clasess;
 
 public class MyStack<E> {
     private MyArrayList<E> list = new MyArrayList<>();

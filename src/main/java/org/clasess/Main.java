@@ -1,4 +1,4 @@
-package org.classess;
+package org.clasess;
 
 public class Main {
     public static void main(String[] args) {

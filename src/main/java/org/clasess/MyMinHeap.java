@@ -1,4 +1,4 @@
-package org.classess;
+package org.clasess;
 public class MyMinHeap {
     private MyArrayList<Integer> heap = new MyArrayList<>();
 

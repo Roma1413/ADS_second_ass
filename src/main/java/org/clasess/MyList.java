@@ -1,4 +1,4 @@
-package org.classess;
+package org.clasess;
 
 public interface MyList<E> extends Iterable<E> {
     void add(E element);
