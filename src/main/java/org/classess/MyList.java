@@ -1,4 +1,4 @@
-package org.popins;
+package org.classess;
 
 public interface MyList<E> extends Iterable<E> {
     void add(E element);

@@ -1,4 +1,4 @@
-package org.popins;
+package org.classess;
 
 public class Main {
     public static void main(String[] args) {

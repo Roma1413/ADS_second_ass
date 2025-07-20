@@ -1,4 +1,4 @@
-package org.popins;
+package org.classess;
 
 public class MyQueue<E> {
     private MyLinkedList<E> list = new MyLinkedList<>();

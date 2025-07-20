@@ -1,4 +1,4 @@
-package org.popins;
+package org.classess;
 
 public class MyLinkedList<E> implements MyList<E> {
     private class MyNode {
